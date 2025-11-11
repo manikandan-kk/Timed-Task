@@ -1,6 +1,6 @@
 {
   "name": "timd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Simple tool to display the time taken to perform script tasks & unix commands",
   "license": "MIT",
   "author": "Manikandan KK",
