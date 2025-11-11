@@ -1,11 +1,14 @@
 {
   "name": "timd",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Simple tool to display the time taken to perform script tasks & unix commands",
   "license": "MIT",
   "author": "Manikandan KK",
   "type": "module",
   "main": "index.js",
+  "bin": {
+    "timd": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
